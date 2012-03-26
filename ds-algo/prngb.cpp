@@ -1,3 +1,5 @@
+//lame ass coding so what ? 
+
 #include<cstdio>
 #include<iostream>
 using namespace std;
